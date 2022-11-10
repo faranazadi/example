@@ -2,26 +2,7 @@
 
 [![Go Reference](https://pkg.go.dev/badge/golang.org/x/example.svg)](https://pkg.go.dev/golang.org/x/example)
 
-This repository contains a collection of Go programs and libraries that
-demonstrate the language, standard libraries, and tools.
-
-## Clone the project
-
-```
-$ git clone https://go.googlesource.com/example
-$ cd example
-```
-https://go.googlesource.com/example is the canonical Git repository.
-It is mirrored at https://github.com/golang/example.
-## [hello](hello/) and [stringutil](stringutil/)
-
-```
-$ cd hello
-$ go build
-```
-A trivial "Hello, world" program that uses a stringutil package.
-
-Command [hello](hello/) covers:
+Th
 
 * The basic form of an executable command
 * Importing packages (from the standard library and the local repository)
